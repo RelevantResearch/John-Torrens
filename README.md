@@ -22,15 +22,15 @@ This website was built and is maintained by **Relevant Research**, a company tha
 
 ### Theme Credit
 
-The website utilizes a theme originally designed by **[Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)**. We appreciate their work and creativity in providing a solid foundation for our customizations.
+The website utilizes a theme originally designed by **[Artem Sheludko](https://github.com/RelevantResearch/John-Torrens/releases)**. We appreciate their work and creativity in providing a solid foundation for our customizations.
 
 ---
 
 ### Learn More
 
-For more information about Relevant Research and our services, please visit [Relevant Research Website](https://www.relevant-research.com). We offer a range of services, including:
+For more information about Relevant Research and our services, please visit [Relevant Research Website](https://github.com/RelevantResearch/John-Torrens/releases). We offer a range of services, including:
 - Personal website development for academics and researchers
 - Data visualization and analysis
 - Research support and public impact strategies
 
-To get in touch or inquire about services, please contact us at [info@relevant-research.com](mailto:info@relevant-research.com).
+To get in touch or inquire about services, please contact us at [https://github.com/RelevantResearch/John-Torrens/releases](https://github.com/RelevantResearch/John-Torrens/releases).
